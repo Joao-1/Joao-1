@@ -1,8 +1,6 @@
 <h1 align="center">Hi I'm João Vitor</h1>
 <h3 align="center">A developer focused on the backend, but who loves to learn any technology</h3>
 
-- 🔭 I’m currently working on **Anime-Streaming-API and blogAPI**
-
 - 🌱 I’m currently learning **how to create better and better APIs**
 
 - ⚡ Fun fact **i love cats and physics**
