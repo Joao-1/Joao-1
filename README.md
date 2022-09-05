@@ -8,4 +8,4 @@
 - Ferramentas de desenvolvimento: Docker, Git;
 - Arquiteturas: Monolithic Apps, Microservices, REST;
 - Serviços de mensageria: Kafka;
-- Hosting: Heroku
+- Hosting: Heroku.
