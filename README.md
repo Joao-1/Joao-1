@@ -7,5 +7,4 @@
 - Bibliotecas de desenvolvimento: Nest, Express, Sequelize, TypeORM, Prisma, Socket.io, etc;
 - Ferramentas de desenvolvimento: Docker, Git;
 - Arquiteturas: Monolithic Apps, Microservices, REST;
-- Serviços de mensageria: Kafka;
 - Hosting: Heroku.
