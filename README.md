@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm João Vitor, physicist and back-end programmer</h1>
 
-- Inglês: leio bem, escuto bem, falo pouco, escrevo pouco;
+- Inglês: leio bem, escuto bem, falo pouco, escrevo bem;
 - Japonês: leio razoavelmente, escuto razoavelmente, falo pouco, escrevo razoavelmente;
 - Linguagens: Javascript e Typescript com Node.js, Python, HTML, CSS e breves experiências com C#, C, Go e Java;
 - Bancos de dados: PostgreSQL, MySQL, MongoDB, Redis;
