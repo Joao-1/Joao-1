@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm João Vitor, physicist and back-end programmer</h1>
+<h1 align="center">Hi, I'm João Vitor, physicist, DevOps and back-end programmer</h1>
 
 - Inglês: leio bem, escuto bem, falo pouco, escrevo bem;
 - Japonês: leio razoavelmente, escuto razoavelmente, falo pouco, escrevo razoavelmente;
