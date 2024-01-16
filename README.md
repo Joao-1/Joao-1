@@ -28,10 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
 </div>
 
-###
-
 <div align="center">
-  <img height="250" src="https://i.pinimg.com/originals/45/7f/09/457f09e3b8820c82b7adae7f638d81bd.gif"  />
+  <img  src="https://github.com/Joao-1/Joao-1/assets/58475277/5e76eaf7-67df-411c-a4ba-5fe99ec822b8"  />
 </div>
 
 ###
