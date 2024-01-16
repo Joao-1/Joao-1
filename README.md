@@ -1,10 +1,37 @@
-<h1 align="center">Hi, I'm João Vitor, physicist, DevOps and back-end programmer</h1>
+<h2 align="center">Hi, I'm João Vitor, physicist, DevOps and software engineer</h2>
 
-- Inglês: leio bem, escuto bem, falo pouco, escrevo bem;
-- Japonês: leio razoavelmente, escuto razoavelmente, falo pouco, escrevo razoavelmente;
-- Linguagens: Javascript e Typescript com Node.js, Python, HTML, CSS e breves experiências com C#, C, Go e Java;
-- Bancos de dados: PostgreSQL, MySQL, MongoDB, Redis;
-- Frameworks e libs: Nodejs, Nest, Express, Sequelize, TypeORM, Prisma, Socket.io, Passport, Lodash, Jest etc;
-- Ferramentas de desenvolvimento: Docker, Git, WSL2, Pgadmin, Github Actions etc;
-- Arquiteturas: Monolithic Apps, Microservices, REST;
-- Infra: Heroku, Amazon AWS, Kubernetes.
+###
+
+<p align="center">Experienced in DevOps and back-end engineering, currently pursuing a degree in Physics at the Pontifical Catholic University of Minas Gerais.</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="argocd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="250" src="https://i.pinimg.com/originals/45/7f/09/457f09e3b8820c82b7adae7f638d81bd.gif"  />
+</div>
+
+###
