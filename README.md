@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Experienced in DevOps and back-end engineering, currently pursuing a degree in Physics at the Pontifical Catholic University of Minas Gerais.</p>
+<p align="center">DevOps and software engineer, currently pursuing a degree in Physics at the Pontifical Catholic University of Minas Gerais.</p>
 
 ###
 
